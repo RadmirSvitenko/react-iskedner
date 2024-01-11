@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-iskedner/static/js/main.85dde914.js",
+    "static/js/787.1419fb93.chunk.js": "/react-iskedner/static/js/787.1419fb93.chunk.js",
+    "static/media/news.png": "/react-iskedner/static/media/news.da5a55ff828891428c2e.png",
+    "static/media/hitProduct.png": "/react-iskedner/static/media/hitProduct.9b411d8b84257cf4ed11.png",
+    "static/media/category7.png": "/react-iskedner/static/media/category7.9714e32a65e863fa78f3.png",
+    "static/media/category4.png": "/react-iskedner/static/media/category4.71b48e1bd6f1fb4e8fe9.png",
+    "static/media/category8.png": "/react-iskedner/static/media/category8.6f1550c122dbead158d8.png",
+    "static/media/category10.png": "/react-iskedner/static/media/category10.cc6e79238f46ff5c579f.png",
+    "static/media/category1.png": "/react-iskedner/static/media/category1.b04129b6a6f6c5b58647.png",
+    "index.html": "/react-iskedner/index.html",
+    "main.85dde914.js.map": "/react-iskedner/static/js/main.85dde914.js.map",
+    "787.1419fb93.chunk.js.map": "/react-iskedner/static/js/787.1419fb93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.85dde914.js"
+  ]
+}
